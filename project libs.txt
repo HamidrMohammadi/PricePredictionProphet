@@ -1,0 +1,3 @@
+3.pip install fbprophet
+2. pip install pystan
+1. pip install Cython
